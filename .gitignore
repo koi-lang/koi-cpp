@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Gradle files
+.gradle/
+
+# Other files
+build
+cmake-build-debug
+libs/
+generated/
